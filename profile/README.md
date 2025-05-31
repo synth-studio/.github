@@ -8,7 +8,7 @@
   
   <!-- Stylish badges -->
   <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/ESTABLISHED-2023-4066FF?style=for-the-badge&labelColor=151515"/>
+    <img src="https://img.shields.io/badge/ESTABLISHED-2024-4066FF?style=for-the-badge&labelColor=151515"/>
     <img src="https://img.shields.io/badge/PROJECTS-30+-4066FF?style=for-the-badge&labelColor=151515"/>
     <img src="https://img.shields.io/badge/TEAM-GLOBAL-4066FF?style=for-the-badge&labelColor=151515"/>
     <img src="https://img.shields.io/badge/FOCUS-INNOVATION-4066FF?style=for-the-badge&labelColor=151515"/>
