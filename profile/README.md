@@ -50,6 +50,12 @@ Our unique decentralized model provides direct access to a curated 'Team Pool'. 
 </div>
 </div>
 
+  <!-- Code Analysis с красным неоном -->
+  <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.5);">
+    <h2 style="color: #FF3131; text-shadow: 0 0 5px #FF3131; margin-bottom: 20px;">⌨️ CODE ANALYSIS</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda404NotFound&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FF4444&layout=compact&langs_count=8&card_width=400"/>
+  </div>
+
 ## ✨ Our Development Process
 
 | Phase | Description |
