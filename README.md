@@ -1,0 +1,2 @@
+# .github
+Synth Studio Team
